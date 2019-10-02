@@ -15,5 +15,7 @@
 homepage: "https://www.thyngster.com"
 documentation: "https://www.thyngster.com/google-tag-manager-custom-template-brainsins/"
 versions:
+  - sha: 8b86566bc01fc7ec53fe6f08075a4408827f6b1a
+    changeNotes: Fixed Logo
   - sha: 99bfb1b85319cce992b5aa9f159e06c1c3b90487
     changeNotes: Initial Version
